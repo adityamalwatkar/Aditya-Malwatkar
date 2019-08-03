@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+print("enter two numbers")
+print("sum ="a+b)
+print("sub ="a-b)
+print("multiplicatiion ="a*b)
